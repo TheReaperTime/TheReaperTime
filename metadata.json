@@ -1,0 +1,28 @@
+{
+  "name": "TIME",
+  "symbol": "TIME",
+  "description": "TIME is the native token of The Reaper, a Solana project built around finite time, intentional use, transparent scarcity, and the future Reaper Protocol.",
+  "image": "https://github.com/TheReaperTime/TheReaperTime/blob/main/time-logo.png",
+  "external_url": "https://drive.proton.me/urls/4HCX3MDVH0#jP1mmhsX00fE",
+  "attributes": [
+    {
+      "trait_type": "Project",
+      "value": "The Reaper"
+    },
+    {
+      "trait_type": "Blockchain",
+      "value": "Solana"
+    },
+    {
+      "trait_type": "Supply",
+      "value": "1000000000"
+    }
+  ],
+  "properties": {
+    "category": "fungible",
+    "links": {
+      "x": "https://x.com/reapertimex",
+      "whitepaper": "https://drive.proton.me/urls/4HCX3MDVH0#jP1mmhsX00fE"
+    }
+  }
+}
